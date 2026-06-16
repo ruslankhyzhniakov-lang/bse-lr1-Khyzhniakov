@@ -29,7 +29,7 @@
 
 ```bash
 
-git clone https://github.com/username/project.git
+git clone https://github.com/ruslankhyzhniakov-lang/bse-lr1-Khyzhniakov.git
 
 cd project
 
